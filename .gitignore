@@ -1,4 +1,5 @@
-Created by https://www.gitignore.io/api/windows,java,intellij
+
+# Created by https://www.gitignore.io/api/windows,java,intellij
 
 ### Windows ###
 # Windows image file caches
@@ -81,3 +82,6 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+### Intellij Patch ###
+*.iml
